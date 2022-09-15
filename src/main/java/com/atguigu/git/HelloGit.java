@@ -11,6 +11,6 @@ public class HelloGit {
         System.out.println("hello.hotfix");
         System.out.println("hello.mastertest");
         System.out.println("hello.hotfixtest");
-        System.out.println("push");
+        System.out.println("pushtest");
     }
 }
